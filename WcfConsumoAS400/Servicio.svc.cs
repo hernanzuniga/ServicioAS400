@@ -51,7 +51,7 @@ namespace WcfConsumoAS400
         }
 
         public string VigenciaListadoPolizasAs400(string nroPoliza)
-        
+        {
             string nroSucursal = nroPoliza.Substring(0, 1);
             string tipo = nroPoliza.Substring(1, 1);
             string numeroDocumento = nroPoliza.Substring(2, nroPoliza.Length - 2);
