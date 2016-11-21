@@ -1,0 +1,5 @@
+C:\Users\NANO\Desktop\Proyectos\Nueva carpeta\WcfConsumoAS400\WcfConsumoAS400\bin\WcfConsumoAS400.dll
+C:\Users\NANO\Desktop\Proyectos\Nueva carpeta\WcfConsumoAS400\WcfConsumoAS400\bin\WcfConsumoAS400.pdb
+C:\Users\NANO\Desktop\Proyectos\Nueva carpeta\WcfConsumoAS400\WcfConsumoAS400\obj\Debug\WcfConsumoAS400.dll
+C:\Users\NANO\Desktop\Proyectos\Nueva carpeta\WcfConsumoAS400\WcfConsumoAS400\obj\Debug\WcfConsumoAS400.pdb
+C:\Users\NANO\Desktop\Proyectos\Nueva carpeta\WcfConsumoAS400\WcfConsumoAS400\obj\Debug\WcfConsumoAS400.csprojResolveAssemblyReference.cache

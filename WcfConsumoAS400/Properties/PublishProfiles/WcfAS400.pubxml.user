@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfConsumoAS400.dll">
+      <publishTime>11/18/2016 09:29:42</publishTime>
+    </File>
+    <File Include="Servicio.svc">
+      <publishTime>11/16/2016 13:02:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/18/2016 09:29:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
