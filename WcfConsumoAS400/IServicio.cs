@@ -24,8 +24,16 @@ namespace WcfConsumoAS400
         ResponseFormat = WebMessageFormat.Json,
         BodyStyle = WebMessageBodyStyle.Wrapped,
         RequestFormat = WebMessageFormat.Json,
-        UriTemplate = "traerListado/{year}/{month}/{day}")]        
-        List<Documento> TraerPolizasVencidasAS400(string year, string month, string day);
+        UriTemplate = "listadovigenciaPoliza/{polizas}")]
+        List<Documento> VigenciaListadoPolizasAs400(string polizas);
+
+        [OperationContract]
+        [WebInvoke(Method = "GET",
+        ResponseFormat = WebMessageFormat.Json,
+        BodyStyle = WebMessageBodyStyle.Wrapped,
+        RequestFormat = WebMessageFormat.Json,
+        UriTemplate = "traerListado/{year}/{month}")]
+        List<Documento> TraerPolizasVencidasAS400(string year, string month);
 
         [OperationContract]
         [WebInvoke(Method = "GET",
